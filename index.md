@@ -1,6 +1,6 @@
 # jamieweb
 
-[![This project welcomes security reports](https://img.shields.io/badge/This%20project%20welcomes%20security%20reports-jamieweb%2enet%2fcontact-brightgreen.svg)](https://www.jamieweb.net/contact/)
+[![This project welcomes security reports](https://img.shields.io/badge/This%20project%20welcomes%20security%20reports-hackerone%2ecom%2fjamieweb-brightgreen.svg)](https://hackerone.com/jamieweb)
 
 My personal website, available at:
 
@@ -11,11 +11,13 @@ My personal website, available at:
 
 ## HackerOne:
 
-I currently have a HackerOne vulnerability disclosure program that is under private/controlled launch. If you would like to be invited, please send me your email address and I'll add you!
+I have a public HackerOne security vulnerability disclosure program for my website. If you would like to search for vulnerabilities or report one, please view the program here: [https://hackerone.com/jamieweb](https://hackerone.com/jamieweb)
 
-You can view a copy of the security policy [here](https://github.com/JamieOnUbuntu/config/blob/master/hackerone/policy.md), and the scope [here](https://github.com/JamieOnUbuntu/config/blob/master/hackerone/scope.md).
+Valid submissions will be thanked publicly on my HackerOne program page.
 
 **Please note that my HackerOne program does not provide bounties/rewards as JamieWeb is only a small personal project.**
+
+Thank you!
 
 ## IP Addresses:
 
